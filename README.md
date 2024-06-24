@@ -1,4 +1,4 @@
-*Note: =*
+*Note: -*
 
 Yay! My first course that concerns coding (great optimism as a Freshman :) ). Until, the reality had finally sunk in for me...
 
